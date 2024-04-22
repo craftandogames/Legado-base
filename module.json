@@ -1,0 +1,38 @@
+{
+  "id": "legadoBase",
+  "title": "Legado - Elementos Básicos",
+  "description": "As Ancestralidades e Castas básicas para o sistema Legado",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Pehdrah",
+      "discord": "Pehdrah",
+      "url": "https://www.mywebsite.com/",
+      "flags": {}
+    },
+    {
+      "name": "Carol Bernardino"
+    }
+  ],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "packs": [
+    {
+      "name": "legado-base",
+      "label": "Legado Base",
+      "path": "packs/items",
+      "type": "Item",
+      "system": "legadorpg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "url":"",
+  "manifest": "url/module.json",
+  "download": "url/legadoBase.zip"
+}
