@@ -32,7 +32,7 @@
       "flags": {}
     }
   ],
-  "url":"",
-  "manifest": "url/module.json",
-  "download": "url/legadoBase.zip"
+  "url":"https://github.com/craftandogames/Legado-base",
+  "manifest": "https://raw.githubusercontent.com/craftandogames/Legado-base/main/module.json",
+  "download": "https://github.com/craftandogames/Legado-base/archive/refs/heads/main.zip"
 }
